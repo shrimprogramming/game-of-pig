@@ -1,6 +1,5 @@
 import random
 
-# Variables
 
 total = 0
 turns = 0
@@ -10,7 +9,6 @@ comp_total = 0
 comp_turns = 0
 comp_turn_score = 0
 
-# Colors
 
 class color:
     BLUE = '\033[94m'
